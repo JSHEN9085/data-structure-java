@@ -32,4 +32,25 @@ public class SingleDimensionArray {
             System.out.println("Invalid index to access array!");
         }
     }
+
+    public void accessingCell(int index){
+        try{
+            System.out.println(arr[index]);
+        } catch(ArrayIndexOutOfBoundsException e){
+            System.out.println("Invalid index to access array!");
+        }
+    }
+
+    public void search(int value){
+        for(int i = 0; i < arr.length; i++){
+            if(arr[i] == value){
+                System.out.println(value + " is found");
+                System.out.println("index of " + value + " is " + i);
+                return;
+            }
+        }
+        System.out.println(value + " is not found");
+    }
+
+ 
 }

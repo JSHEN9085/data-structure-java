@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="26a9659f-e682-444f-a08e-b65fa9fe16f5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/jshen/SingleDimensionArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../recursion/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../recursion/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../recursion/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../recursion/out/production/recursion/com/jshen/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../recursion/out/production/recursion/com/jshen/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jshen/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jshen/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/jshen/SingleDimensionArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/jshen/SingleDimensionArray.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,8 +21,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/jshen/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="11" column="31" lean-forward="true" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+            <state relative-caret-position="158">
+              <caret line="39" column="24" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -32,8 +30,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/jshen/SingleDimensionArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="393">
-              <caret line="31" column="62" selection-start-line="31" selection-start-column="62" selection-end-line="31" selection-end-column="62" />
+            <state relative-caret-position="337">
+              <caret line="56" column="47" selection-start-line="56" selection-start-column="47" selection-end-line="56" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -101,6 +99,9 @@
       <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -179,15 +180,15 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/jshen/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="11" column="31" lean-forward="true" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+        <state relative-caret-position="158">
+          <caret line="39" column="24" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/jshen/SingleDimensionArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
-          <caret line="31" column="62" selection-start-line="31" selection-start-column="62" selection-end-line="31" selection-end-column="62" />
+        <state relative-caret-position="337">
+          <caret line="56" column="47" selection-start-line="56" selection-start-column="47" selection-end-line="56" selection-end-column="47" />
         </state>
       </provider>
     </entry>
